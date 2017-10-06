@@ -1,10 +1,11 @@
 from __future__ import (absolute_import, division, print_function)
 
-__version__ = '2.1.1a1'
+__version__ = '2.1.2'
 
 # dependencies: lxml.etree, owslib
 # =============================================================================
-# Authors : Xao Yang, Jordan Walker, Jordan Read, Curtis Price, David Blodgett
+# Authors : Xao Yang, Jordan Walker, Jordan Read, Curtis Price, David Blodgett,
+# Parker Norton, Steve Kochaver
 #
 # Contact email: jread@usgs.gov
 # =============================================================================

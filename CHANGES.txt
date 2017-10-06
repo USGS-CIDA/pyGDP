@@ -1,5 +1,12 @@
 Changes 
 =======
+2.1.2
+---------------
+- Updated to latest OWSLib
+- Working on py3K support
+- PEP 8 style updates
+- Documentation updates
+- New job monitoring capability
 2.1.1
 ---------------
 HTTPS
