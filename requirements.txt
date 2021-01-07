@@ -1,4 +1,4 @@
 OWSLib
 # FIXME: tests fail with latest lxml.
 # probably some ordered object, unclear.
-lxml==3.3.5
+lxml==4.6.2
